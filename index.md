@@ -21,7 +21,7 @@ This container consists of a **Base Container** and several **Sub Containers**. 
 - A generic .NET container with a basic Command Application template.
 - An Avalonia container with Avalonia GUI templates and a custom GUI application template tailored for this stack.
 
-
+> **For the latest stable release, use the release/1.0 template branch**
 
 ## Quick Setup
 There are no quick setup instructions for this image. First, you need to install the Base Container/Image, which takes about 20 minutes. After that, you can easily add Sub Containers. Please refer to the document [how to create a development container](./Howtos/howto_create_a_dev_container). which explains the installation of the **Base Container** and any available **Sub Containers**.
