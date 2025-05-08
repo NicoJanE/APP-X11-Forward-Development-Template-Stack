@@ -12,6 +12,15 @@ _This source code is licensed under the MIT License found in the  'LICENSE.md' f
 </small>
 <br><br>
 
+**Announcement:** <br>
+*This container is deprecated and will be removed on **June 1, 2025.***   <br><br>
+
+# Where New
+The new container with the same sub container can be found [here](https://nicojane.github.io/X11-GUI-Dev-Template-Stack/)
+
+<hr>
+
+
 # What
 This is a Docker Linux (Ubuntu 24.04) template container with GUI output to an X11 server on a Windows host. The container is **designed** for use on a Windows Docker Desktop host, enabling the **development** of **GUI applications** within a **Docker container**. Additionally, the container can be used to run other Linux GUI applications.
 

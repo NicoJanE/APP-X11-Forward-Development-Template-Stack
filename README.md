@@ -1,7 +1,10 @@
+**Announcement:** <br>
+*This container is deprecated and will be removed on **June 1, 2025.***   <br><br>
 
+# Where New
+The new container with the same sub container can be found [here](https://github.com/NicoJanE/X11-GUI-Dev-Template-Stack)
 
-# What
-This is a Docker Linux (Ubuntu 24.04) template container with GUI output to an X11 server on a Windows host. The container is **designed** for use on a Windows Docker Desktop host, enabling the **development** of **GUI applications** within a **Docker container**.  Note that the container can also be used to run any other Linux GUI applications in a container.
+<hr>
 
 **Available Sub Containers**
 - A generic .NET base container with basic software .
